@@ -8,7 +8,7 @@ Version 1.0.0
 
 # Download Options
 <ul>
-  <li><a href="https://themesbootstrap.com.mx/templates/smart-agency-template/index.html">Dowload latest version on Themes Bootstrap</a></li>
+  <li><a href="https://themesbootstrap.com.mx/templates/smart-agency-template.html">Dowload latest version on Themes Bootstrap</a></li>
   <li>Clone the repo: git clone https://github.com/diegovr7/smart-agency.git</li>
  </ul>
  
