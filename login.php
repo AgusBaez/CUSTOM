@@ -19,7 +19,6 @@
 
   </head>
   <body>
-
     <div class="login-box">
       <img src="assets/images/CUSTOM.ICO" class="avatar" alt="Avatar Image">
       <h1>Sing in</h1>
@@ -32,7 +31,7 @@
         <input type="password" placeholder="Enter Password">
         <input type="submit" value="Log In">
         <a href="#">Lost your Password?</a><br>
-        <a href="login.php">Don't have An account?</a><br>
+        <a href="singup.php">Don't have An account?</a><br>
         <a href="index.php">Volver</a>
       </form>
     </div>

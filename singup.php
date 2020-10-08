@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Sing in | CUSTOM</title>
+    <title>Sing Up | CUSTOM</title>
     <link rel="stylesheet" href="assets/css/register.css">
   </head>
   <body>
@@ -10,7 +10,7 @@
     <div class="login-box">
     
       <img src="assets/images/CUSTOM.ico" class="avatar" alt="Avatar Image">
-      <h1>Sing in</h1>
+      <h1>Sing Up</h1>
       <form>
         <!-- USERNAME INPUT -->
         <label for="username">Username</label>

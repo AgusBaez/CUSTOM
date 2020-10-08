@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url(/assets/images/StockRopa-1.jpg) no-repeat center top;
+    background: url(../images/StockRopa-1.jpg) no-repeat center top;
     background-size: cover;
     font-family: 'Titillium Web';
     height: 100vh;
