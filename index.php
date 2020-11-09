@@ -63,7 +63,7 @@
                         <a class="nav-link" href="login.php">Logueate</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="singup.php">Registrate</a>
+                        <a class="nav-link" href="signup.php">Registrate</a>
                     </li>
                 </ul>
             </div>
